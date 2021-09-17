@@ -10,21 +10,8 @@ class AuthController extends Controller
     //
     public function index(){
 
-
     }
-
-    public function login(){
-
-    }
-    public function register(){
-
-    }
-
-    public function process(){
-
-    }
-
     public function logout(){
-        
+        return 'no';
     }
 }
