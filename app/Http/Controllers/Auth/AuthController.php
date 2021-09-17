@@ -9,6 +9,14 @@ class AuthController extends Controller
 {
     //
     public function index(){
-        
+
+
+    }
+
+    public function login(){
+
+    }
+    public function register(){
+
     }
 }
